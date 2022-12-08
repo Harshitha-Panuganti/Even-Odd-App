@@ -1,0 +1,36 @@
+.evenOddContainer {
+  background-image: linear-gradient(#ff6e7f, #bfe9ff);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.heading {
+  color: #0f172a;
+  font-family: 'Roboto';
+  font-size: 38px;
+  text-align: center;
+  font-weight: 800;
+}
+.desc {
+  color: #334155;
+  font-family: 'Roboto';
+  font-size: 30px;
+  text-align: center;
+}
+.button {
+  background-color: #ffffff;
+  color: #1e293b;
+  border-radius: 8px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-size: 12px;
+}
+.counter-para {
+  color: #0f172a;
+  font-size: 16px;
+  font-family: 'Roboto';
+}
